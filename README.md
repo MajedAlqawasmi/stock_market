@@ -1,7 +1,7 @@
 # Stock Market Analysis Case Study
 by [Majed Alqawasmi](https://github.com/MajedAlqawasmi) October 2021
 <br/><br/>
-##  Insights for financial supervisory authorities, consumer & banks 
+
 <img src="https://github.com/MajedAlqawasmi/stock_market/blob/main/stock_market.png" width="1000" height="300">
 
 ## Table of content
@@ -15,7 +15,7 @@ by [Majed Alqawasmi](https://github.com/MajedAlqawasmi) October 2021
 This case study raises a few questions and demands the answer, and in the process of doing so all data cleaning, wrangling & visualisation needed.
 
 ## Data
-Four datasets: 
+Dataset: 
 - [S&P 500 stock data from Feb 2013 to Feb 2018](https://www.kaggle.com/camnugent/sandp500?select=all_stocks_5yr.csv) 
 
 ## Process & Tools
