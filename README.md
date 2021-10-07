@@ -9,7 +9,7 @@ by [Majed Alqawasmi](https://github.com/MajedAlqawasmi) October 2021
 - [Description](https://github.com/MajedAlqawasmi/stock_market/blob/main/README.md#description)
 - [Data](https://github.com/MajedAlqawasmi/stock_market/blob/main/README.md#data)
 - [Process & Tools](https://github.com/MajedAlqawasmi/stock_market/blob/main/README.md#process--tools)
-- [Key Take Aways & Final Product](https://github.com/MajedAlqawasmi/stock_market/blob/main/README.md#The-Answers)
+- [The Answers](https://github.com/MajedAlqawasmi/stock_market/blob/main/README.md#The-Answers)
 
 ## Description
 This case study raises a few questions and demands the answer, and in the process of doing so all data cleaning, wrangling & visualisation needed.
@@ -31,7 +31,7 @@ Ways of working included an iterative/agile approach circling through the follow
 - **Answering questions with Visualization:** using Seaborn, Matplotlib and Tableau
 - **Github:** set up Github repo to use for this project. <br/>
 
-## The-Answers
+## The Answers
 
 The answers to all question can be fout in [this notbook](https://github.com/MajedAlqawasmi/final_project_ironhac/blob/main/complaints_over_years.PNG)
 
