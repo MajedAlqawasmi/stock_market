@@ -33,5 +33,5 @@ Ways of working included an iterative/agile approach circling through the follow
 
 ## The Answers
 
-The answers to all question can be fout in [this notbook](https://github.com/MajedAlqawasmi/final_project_ironhac/blob/main/complaints_over_years.PNG)
+The answers to all question can be fout in [this notebook](https://github.com/MajedAlqawasmi/final_project_ironhac/blob/main/complaints_over_years.PNG)
 
