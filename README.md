@@ -2,7 +2,7 @@
 by [Majed Alqawasmi](https://github.com/MajedAlqawasmi) October 2021
 <br/><br/>
 ##  Insights for financial supervisory authorities, consumer & banks 
-![Stock Market Analysis](https://github.com/MajedAlqawasmi/stock_market/blob/main/stock_market.png)
+<img src="https://github.com/MajedAlqawasmi/stock_market/blob/main/stock_market.png.type" width="100" height="100">
 
 ## Table of content
 
