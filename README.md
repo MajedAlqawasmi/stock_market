@@ -24,7 +24,7 @@ Dataset:
 Ways of working included an iterative/agile approach circling through the following steps:
 
 - **Project management:** Using Trello
-- **Coding:** [Jupyter notebook](https://github.com/MajedAlqawasmi/final_project_ironhac/blob/main/final_project.ipynb)
+- **Coding:** [Jupyter notebook](https://github.com/MajedAlqawasmi/stock_market/blob/main/Stock_case_study.ipynb)
 - **Data cleaning & wrangling in Python:** using Pandas, numpy, datetime & time to deal uniform upper/lowercases, uniform string values, extract time (year, month, day, week, weekday and day), add columns, drop null values, and more<br/>
 - **EDA:** assessment of dataframe and exploratory analysis using python and its libraries<br/>
 - **Querying & Answering Questions:** using Python and SQL in Python (pandasql, sqldf)<br/>
@@ -33,5 +33,5 @@ Ways of working included an iterative/agile approach circling through the follow
 
 ## The Answers
 
-The answers to all question can be fout in [this notebook](https://github.com/MajedAlqawasmi/final_project_ironhac/blob/main/complaints_over_years.PNG)
+The answers to all question can be fout in [this notebook](https://github.com/MajedAlqawasmi/stock_market/blob/main/Stock_case_study.ipynb)
 
