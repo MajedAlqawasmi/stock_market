@@ -33,5 +33,5 @@ Ways of working included an iterative/agile approach circling through the follow
 
 ## The Answers
 
-The answers to all question can be fout in [this notebook](https://github.com/MajedAlqawasmi/stock_market/blob/main/Stock_case_study.ipynb)
+The answers to all question can be found in [this notebook](https://github.com/MajedAlqawasmi/stock_market/blob/main/Stock_case_study.ipynb)
 
